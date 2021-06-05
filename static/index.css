@@ -1,0 +1,44 @@
+body{
+    background-color: blue;
+    overflow-x: hidden;
+}
+
+/*h1{
+    color: white;
+}*/
+.Nav{
+    margin-bottom: 70px;
+}
+nav img{
+    margin-left: -18px;
+    margin-right: 10px;
+}
+
+.DivImg{
+    display: inline;
+}
+.DivImg img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+.DivImg h3{
+    margin-left: 10px;
+}
+
+ul{
+    width: 500px;
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    position: relative;
+    bottom: 210px;
+    right: 100px;
+}
+ul a{
+    color: red;
+}
+hr{
+   border-top: 5px solid red;
+}
